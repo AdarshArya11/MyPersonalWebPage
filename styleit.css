@@ -1,0 +1,154 @@
+
+body{
+    margin :0;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    margin: 50px;
+    font-size: 90px;
+    font-family: 'Sacramento',cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.profile{
+    
+}
+.profilepic {
+    border-radius: 50%;
+}
+
+.education{
+    border-radius: 50%;
+    width: 25%;
+    
+    
+}
+
+.skillimage{
+    border-radius: 50%;
+    width:15%;
+    
+    
+    
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    
+    
+    
+    
+}
+
+.intro{
+    width:30%;
+    margin:auto;
+    line-height: 2;
+}
+
+.educationtext {
+    line-height: 2;
+    margin-right: 20px;
+}
+
+.skilltext{
+    line-height: 2;
+    
+}
+
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 40px;
+    font-weight:bold;
+    color: #0d5a5a;
+}
+
+h3{
+    font-family: 'Montserrat',sans-serif ;
+    color: #11999E;
+
+}
+.top_container{
+
+background-color: rgb(37, 49, 49);
+padding-top: 100px;
+font-size: 20px;
+
+}
+
+.middle-container{
+
+    margin: 100px 0 ;
+   
+}
+
+.bottom_container{
+
+    background-color: #11999E;
+    
+   
+}
+
+.top-cloud {
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud {
+    position:absolute
+    left : 300px;
+    margin-bottom :300px;
+
+}
+
+hr{
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    border-width: 4%;
+    margin: 100px;
+}
+
+.contact-me {
+    width : 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #34d9c3;
+    background-image: -webkit-linear-gradient(top, #34d9c3, #2980b9);
+    background-image: -moz-linear-gradient(top, #34d9c3, #2980b9);
+    background-image: -ms-linear-gradient(top, #34d9c3, #2980b9);
+    background-image: -o-linear-gradient(top, #34d9c3, #2980b9);
+    background-image: linear-gradient(to bottom, #34d9c3, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+
+
